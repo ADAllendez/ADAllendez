@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h1>Hola 👋, soy Alejo Díaz Allendez</h1>
+      <h1>Hola 👋, soy Alejo Diaz Allendez</h1>
       <h3>Técnico Superior en Programación | Apasionado por la tecnología y el desarrollo backend</h3>
     </td>
     <td>
