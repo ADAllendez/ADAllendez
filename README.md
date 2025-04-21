@@ -14,7 +14,7 @@
 - 🔭 Actualmente estudiando en: [Java]  
 - 🌱 Estoy aprendiendo **Back-End**
 - 👯 Buscando colaborar en proyectos open source para mejorar mis habilidades prácticas
-- 💬 Preguntame sobre **C++**, **Java**, **JavaScript**, **Qt Creator**
+- 💬 Preguntame sobre **C++**,**Qt Creator**, **Java** donde actualmente me encuentro realizando mis estudios en ALURA...
 - 📫 Contactame: **alejo.diaz88.ad@gmail.com**
 /*- 📄 [Mi LinkedIn](https://www.linkedin.com/in/alejo-diaz-allendez/)*/
 
