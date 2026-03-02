@@ -11,10 +11,9 @@
 </table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adallendez&label=Profile%20views&color=0e75b6&style=flat" alt="adallendez" /> </p>
 
-- 🔭 Actualmente estudiando: [Java]  
-- 🌱 Estoy aprendiendo **Back-End**, ademas de lo que estoy viendo en mi ultimo año de carrera.
+- 🔭 Actualmente estudiando: [Java y Python]  
+- 🌱 Estoy aprendiendo **Back-End**, ademas de lo que estoy vi en la carrera.
 - 👯 Buscando colaborar en proyectos open source para mejorar mis habilidades prácticas
-- 💬 Preguntame sobre **C++**,**Qt Creator**, **Java** donde actualmente me encuentro realizando mis estudios en ALURA...
 - 📫 Contactame: **alejo.diaz88.ad@gmail.com**
 /*- 📄 [Mi LinkedIn](https://www.linkedin.com/in/alejo-diaz-allendez/)*/
 
